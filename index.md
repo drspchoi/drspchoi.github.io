@@ -14,11 +14,11 @@ I will update it soon.
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/Julius Choi.png?raw=true"/>
+<img src="images/Julius Choi.jpg?raw=true"/>
 I am going to add my biochar project and some projects from IBM data analyst program.  
 
 ---
-#### [External Link Project](https://www.linkedin.com/Julius Choi)
+#### [External Link Project](https://www.linkedin.com/in/drspchoi)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/in/JuliusChoi)
 I still have no idea what I would include here
 
