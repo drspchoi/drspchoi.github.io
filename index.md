@@ -9,7 +9,7 @@ Click the resume link to check my experiences and skills
 ### Learn About My Projects
 
 #### [Internal Blog Post Project](/bank.md)
-<img src="images/charcoal.jpg?raw=true"/>
+<img src="images/charcoal.png?raw=true"/>
 I will update it soon. 
 
 ---
