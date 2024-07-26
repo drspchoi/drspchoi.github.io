@@ -15,7 +15,7 @@ I will update it soon.
 ---
 <!--
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/Julius Choi.jpg?raw=true"/>
+<img src="images/Julius Choi.png?raw=true"/>
 I am going to add my biochar project and some projects from IBM data analyst program.  
 
 ---
