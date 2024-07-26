@@ -13,6 +13,7 @@ Click the resume link to check my experiences and skills
 I will update it soon. 
 
 ---
+<!--
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
 <img src="images/Julius Choi.jpg?raw=true"/>
 I am going to add my biochar project and some projects from IBM data analyst program.  
@@ -32,8 +33,8 @@ How does class size affect college admission?
 What are the top math schools in the state? 
 
 ---
-
-### Category Name 2
+-->
+### Linked Project
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
