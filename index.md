@@ -8,9 +8,11 @@ Click the resume link to check my experiences and skills
 ---
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank.md)
+<!--#### [Internal Blog Post Project](/bank.md)-->
+#### [Biochar Properties Prediction Model Development](/files/biochar.pdf)
+[python code](/bank.md)
 <img src="images/charcoal.png?raw=true"/>
-I will update it soon. 
+Please click the link to access to the report 
 
 ---
 <!--
