@@ -10,7 +10,7 @@ Click the resume link to check my experiences and skills
 
 <!--#### [Internal Blog Post Project](/bank.md)-->
 #### [Biochar Properties Prediction Model Development](/files/Julius Choi_Biochar.pdf)
-####[python code](/bank.md)
+#### [python code](/bank.md)
 <img src="images/charcoal.png?raw=true"/>
 
 ---
