@@ -13,7 +13,7 @@ Click the resume link to check my experiences and skills
 #### [python code](/bank.md)
 <img src="images/charcoal.png?raw=true"/>
 
-#### [StackOverflow developer survey]/files/Stack-Overflow-developer-survey-JC.pdf)
+#### [StackOverflow developer survey](/files/Stack-Overflow-developer-survey-JC.pdf)
 ---
 <!--
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
