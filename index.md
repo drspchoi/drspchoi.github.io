@@ -6,14 +6,21 @@
 Click the resume link to check my experiences and skills
 
 ---
-### Learn About My Projects
+### Learn About My Projects Related to Data Analysis
 
 <!--#### [Internal Blog Post Project](/bank.md)-->
-#### [Biochar Properties Prediction Model Development](/files/Julius Choi_Biochar.pdf)
-#### [python code](/bank.md)
+### 1. Biochar Properties Prediction Model Development
 <img src="images/charcoal.png?raw=true"/>
+#### [Report](/files/Julius Choi_Biochar.pdf)
+#### [python code](/bank.md)
 
-#### [StackOverflow developer survey](/files/Stack-Overflow-developer-survey-JC.pdf)
+### 2. Adsorption model fitting application
+#### [Report]
+#### [code](https://github.com/drspchoi/adsorption)
+
+
+### 3. StackOverflow develoer survey data analysis
+#### [Report](/files/Stack-Overflow-developer-survey-JC.pdf)
 ---
 <!--
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
@@ -36,14 +43,15 @@ What are the top math schools in the state?
 
 ---
 -->
-### Linked Project
+### Project Related to Front-End Development
 
 - [Etch-a-Sketch](https://drspchoi.github.io/etch-a-sketch/)
 - [Calculator](https://drspchoi.github.io/calculator/)
+<!--
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
-
+-->
 ---
 
 
