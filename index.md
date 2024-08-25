@@ -15,7 +15,7 @@ Click the resume link to check my experiences and skills
 #### [python code](/bank.md)
 
 ### 2. Adsorption model fitting application
-#### [Report]
+#### [Report](/files/adsorption.md)
 #### [code](https://github.com/drspchoi/adsorption)
 
 
