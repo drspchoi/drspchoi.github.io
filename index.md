@@ -8,7 +8,7 @@ Click the resume link to check my experiences and skills
 ---
 ### Learn About My Projects Related to Data Analysis
 
-<!--#### [Internal Blog Post Project](/bank.md)-->
+#### [Internal Blog Post Project](/bank.md)
 ### 1. Biochar Properties Prediction Model Development
 <img src="images/charcoal.png?raw=true"/>
 #### [Report](/files/Julius Choi_Biochar.pdf)
@@ -47,6 +47,7 @@ What are the top math schools in the state?
 
 - [Etch-a-Sketch](https://drspchoi.github.io/etch-a-sketch/)
 - [Calculator](https://drspchoi.github.io/calculator/)
+
 ---
 
 
