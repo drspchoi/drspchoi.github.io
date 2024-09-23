@@ -23,7 +23,7 @@ Click the resume link to check my experiences and skills
 
 ### 5. Primer designer 
 
-### 6. [StackOverflow develoer survey data analysis](/files/Stack-Overflow-developer-survey-JC.pdf)
+### [6. StackOverflow develoer survey data analysis](/files/Stack-Overflow-developer-survey-JC.pdf)
 ---
 <!--
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
