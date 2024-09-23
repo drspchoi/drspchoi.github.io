@@ -1,6 +1,6 @@
 # Biochar Properties Prediction Model Development
 
-Julius Choi
+Julius Choi <br>
 April 17th, 2019
 
 # I. Definition
