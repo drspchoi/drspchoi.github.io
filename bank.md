@@ -3,8 +3,8 @@
 Julius Choi
 April 17th, 2019
 
-##I. Definition
-#Project Overview
+## I. Definition
+# Project Overview
 
 Biochar is a porous carbon-rich material produced from biomass-waste such as agricultural waste, wood waste or food waste through a thermochemical process like gasification or pyrolysis[1]. 
 Biochar has potential applications in waste-water treatment, catalysts, electrodes, carbon sequestration agents, soil amendment agents and solid fuels[2]. 
