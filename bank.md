@@ -21,5 +21,4 @@ Then, ANN, multitarget regresser and GradientBoostingRegressor were implemented 
 # II. Analysis
 ## Data Exploration
 
-Raw data 
-[link] /files/data2.csv
+[Raw data](/files/data2.csv)
