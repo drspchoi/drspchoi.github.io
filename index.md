@@ -8,8 +8,7 @@ Click the resume link to check my experiences and skills
 ---
 ### Learn About My Projects Related to Data Analysis
 
-#### [Internal Blog Post Project](/bank.md)
-### 1. Biochar Properties Prediction Model Development
+### [1. Biochar Properties Prediction Model Development](/bank.md)
 <img src="images/charcoal.png?raw=true"/>
 #### [Report](/files/Julius Choi_Biochar.pdf)
 #### [python code](/bank.md)
