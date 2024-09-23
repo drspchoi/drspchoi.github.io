@@ -17,8 +17,13 @@ Click the resume link to check my experiences and skills
 #### [Report](/files/adsorption.md)
 #### [code](https://github.com/drspchoi/adsorption)
 
+### 3. Wine selection
 
-### 3. StackOverflow develoer survey data analysis
+### 4. Industrial process analysis
+
+### 5. Primer designer 
+
+### 6. StackOverflow develoer survey data analysis
 #### [Report](/files/Stack-Overflow-developer-survey-JC.pdf)
 ---
 <!--
@@ -44,8 +49,8 @@ What are the top math schools in the state?
 -->
 ### Project Related to Front-End Development
 
-- [Etch-a-Sketch](https://drspchoi.github.io/etch-a-sketch/)
-- [Calculator](https://drspchoi.github.io/calculator/)
+#### [Etch-a-Sketch](https://drspchoi.github.io/etch-a-sketch/)
+#### [Calculator](https://drspchoi.github.io/calculator/)
 
 ---
 
