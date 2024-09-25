@@ -13,9 +13,9 @@ Click the resume link to check my experiences and skills
 #### [Report](/files/Julius Choi_Biochar.pdf)
 #### [python code](/bank.md)
 
-### [2. Adsorption model fitting application](/files/adsorption.md)
-#### [Report](/files/adsorption.md)
-#### [code](https://github.com/drspchoi/adsorption)
+### [2. Adsorption model fitting application](https://drspchoi.pythonanywhere.com/)
+#### [Manual](/files/adsorption.md)
+#### [code information](https://github.com/drspchoi/adsorption)
 
 ### 3. Wine selection
 
