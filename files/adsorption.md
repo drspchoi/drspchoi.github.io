@@ -22,16 +22,21 @@ Under that circumstance, water and charcoal don't move at all, so the driving fo
 
 We can simply try trial and error: Add a certain amount and wait, then add additional amount and wait, repeat. If we are rich, we can take this approach by letting others do it. But I don't think most scientists and engineers have the luxury enough to do that task in a large fountain. They have to come up with a cost-efficient way to determine it: Doing experiments with a small beaker and estimating the requirement from that data. 
 
-To estimate how much dye will be removed by a specific amount of charcoal, we need to collect data on how much dye attaches to the charcoal at different dye concentrations. Then, we can get the relationship between the concentration of dye in water and the removed dye on the charcoal: Adsorption isotherm. 
-<img src="images/charcoal.png?raw=true"/>
+To estimate how much dye will be removed by a specific amount of charcoal, we need to collect data on how much dye attaches to the charcoal at different dye concentrations. Then, we can get the relationship between the concentration of dye in water and the removed dye on the charcoal: Adsorption isotherm. <br>
+<div style="text-align: center;">
+<img src="../images/Isotherm.png?raw=true"/>
+</div>
+<br>
 From this relation, we can get the adsorption capacity by fitting an isotherm model. The unit is usually g of impurities per kg of adsorbent. So, now that we know the capacity and concentration of dye, we can estimate the required amount of charcoal. 
 
 To estimate the time requirement, we should determine the relationship between the removed amount of dye and time: Adsorption Kinetic. 
-<img src="images/charcoal.png?raw=true"/>
+<br>
+<img src="../images/Kinetic.png?raw=true"/>
+<br>
 We can estimate the required time to remove impurities to the specific concentration. For example, if the fish in the fountain can tolerate 150g/L of dye material, we don't need to run the whole time to remove 100%. 
 
 Those graphs are generated from https://drspchoi.pythonanywhere.com/. 
-<img src="images/charcoal.png?raw=true"/>
+<img src="../images/Adsorption.png?raw=true"/>
 That app was developed during my Ph.D training for fun but never deployed on the web because I assumed that was an easy task that could be done by Excel or simple code. However, I learned that some tasks are not as easy for others as I thought. So, I hope this web app is helpful for educational purposes for someone or for pre-check purposes during experiments. You can simply upload csv file, choose any model and click submit. Graphs will be shown. 
 
 That's it. I hope this article helps you learn about adsorption, adsorbent, adsorbate, adsorption isotherm and kinetic. 
