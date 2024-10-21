@@ -9,11 +9,11 @@ Click the resume link to check my experiences and skills
 ### Learn About My Projects Related to Data Analysis
 
 ### 1. Biochar Properties Prediction Model Development [link](/bank.md)
-<!--<img src="images/charcoal.png?raw=true"/>-->
+<img src="images/charcoal.png?raw=true"/>
 #### [Report](/files/Julius Choi_Biochar.pdf) and [code information](/bank.md)
 
 ###  2. Adsorption model fitting application [Link](https://drspchoi.pythonanywhere.com/)/ [Introduction](/files/adsorption.md)/ [code information](https://github.com/drspchoi/adsorption)
-<img src="../images/adsorption.png?raw=true"/>
+<img src="/images/Adsorption.png?raw=true"/>
 
 ### 3. Wine selection
 #### [Introduction](/files/adsorption.md) and [code information](https://github.com/drspchoi/adsorption)
