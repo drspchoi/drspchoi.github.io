@@ -14,8 +14,7 @@ Click the resume link to check my experiences and skills
 #### [python code](/bank.md)
 
 ### [2. Adsorption model fitting application](https://drspchoi.pythonanywhere.com/)
-#### [Manual](/files/adsorption.md)
-#### [code information](https://github.com/drspchoi/adsorption)
+#### [Introduction](/files/adsorption.md) and [code information](https://github.com/drspchoi/adsorption)
 
 ### 3. Wine selection
 
