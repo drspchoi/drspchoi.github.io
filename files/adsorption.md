@@ -31,7 +31,9 @@ From this relation, we can get the adsorption capacity by fitting an isotherm mo
 
 To estimate the time requirement, we should determine the relationship between the removed amount of dye and time: Adsorption Kinetic. 
 <br>
+<div style="text-align: center;">
 <img src="../images/Kinetic.png?raw=true"/>
+</div>
 <br>
 We can estimate the required time to remove impurities to the specific concentration. For example, if the fish in the fountain can tolerate 150g/L of dye material, we don't need to run the whole time to remove 100%. 
 
