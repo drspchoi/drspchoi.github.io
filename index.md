@@ -10,19 +10,22 @@ Click the resume link to check my experiences and skills
 
 ### [1. Biochar Properties Prediction Model Development](/bank.md)
 <!--<img src="images/charcoal.png?raw=true"/>-->
-#### [Report](/files/Julius Choi_Biochar.pdf)
-#### [python code](/bank.md)
+#### [Report](/files/Julius Choi_Biochar.pdf) and [code information](/bank.md)
 
 ### [2. Adsorption model fitting application](https://drspchoi.pythonanywhere.com/)
 #### [Introduction](/files/adsorption.md) and [code information](https://github.com/drspchoi/adsorption)
 
 ### 3. Wine selection
+#### [Introduction](/files/adsorption.md) and [code information](https://github.com/drspchoi/adsorption)
 
 ### 4. Industrial process analysis
+#### [Introduction](/files/adsorption.md) and [code information](https://github.com/drspchoi/adsorption)
 
 ### 5. Primer designer 
+#### [Introduction](/files/adsorption.md) and [code information](https://github.com/drspchoi/adsorption)
 
 ### [6. StackOverflow develoer survey data analysis](/files/Stack-Overflow-developer-survey-JC.pdf)
+#### [Introduction]
 ---
 <!--
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
